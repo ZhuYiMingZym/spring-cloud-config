@@ -1,7 +1,7 @@
 server:
   port: 10001
 
-test-path: '123123123'
+test: '123123123'
 
 spring.could.config.test:
   name: 'test'
