@@ -3,7 +3,7 @@ server:
 
 test: '123123123'
 
-spring.could.config.test:
+could.config.test:
   name: 'test'
   sex: '男'
   address: '上海市'
