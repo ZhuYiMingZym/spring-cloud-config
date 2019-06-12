@@ -1,7 +1,7 @@
 server:
   port: 10002
 
-test: '12312321'
+test: '123123211111'
 
 could.config.test:
   name: 'baipeng'
