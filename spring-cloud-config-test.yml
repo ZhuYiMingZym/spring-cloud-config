@@ -4,7 +4,7 @@ server:
 test: '123123123'
 
 could.config.test:
-  name: 'test'
+  name: 'baipeng'
   sex: '男'
   address: '上海市'
   
